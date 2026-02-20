@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Rendezvous",
+  "base_artist": "Don Toliver",
+  "createdAt": "2026-02-20T03:08:38.335948Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thinkin' of a Rendezvous (Single Version)",
+      "artist": "Johnny Duncan",
+      "has_synced": true,
+      "path": "select/01_Thinkin'_of_a_Rendezvous_(Single_Version)_Johnny_Duncan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seaside Rendezvous",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_Seaside_Rendezvous_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Rendezvous",
+      "artist": "M People",
+      "has_synced": true,
+      "path": "select/03_Love_Rendezvous_M_People.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rendezvous: Potrero Hill",
+      "artist": "Architecture In Helsinki",
+      "has_synced": false,
+      "path": "select/04_Rendezvous__Potrero_Hill_Architecture_In_Helsinki.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rendezvous Girl",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/05_Rendezvous_Girl_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rendezvous",
+      "artist": "Scandroid",
+      "has_synced": false,
+      "path": "select/06_Rendezvous_Scandroid.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rendezvous",
+      "artist": "Cut Copy",
+      "has_synced": true,
+      "path": "select/07_Rendezvous_Cut_Copy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Presenting Lily Mars - Rendezvous Demo",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/08_Presenting_Lily_Mars_-_Rendezvous_Demo_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Presenting Lily Mars (Rendezvous demo)",
+      "artist": "a‐ha",
+      "has_synced": false,
+      "path": "select/09_Presenting_Lily_Mars_(Rendezvous_demo)_a‐ha.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Devil's Rendezvous",
+      "artist": "U.D.O.",
+      "has_synced": true,
+      "path": "select/10_Devil's_Rendezvous_U.D.O..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Noon Rendezvous",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/11_Noon_Rendezvous_Prince.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Girls Just Wanna Have Fun (Harpsichord Rendezvous Version By Ea)",
+      "artist": "Emilie Autumn",
+      "has_synced": false,
+      "path": "select/12_Girls_Just_Wanna_Have_Fun_(Harpsichord_Rendezvous_Version_By_Ea)_Emilie_Autumn.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Seaside Rendezvous",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/13_Seaside_Rendezvous_Queen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Noon Rendezvous",
+      "artist": "Sheila E.",
+      "has_synced": true,
+      "path": "select/14_Noon_Rendezvous_Sheila_E..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bitter Suite: Brief Encounter / Lost Weekend / Blue Angel / Misplaced Rendezvous / Windswept Thumb (2017 Remastered Version)",
+      "artist": "Marillion",
+      "has_synced": true,
+      "path": "select/15_Bitter_Suite__Brief_Encounter___Lost_Weekend___Blue_Angel___Misplaced_Rendezvous_Marillion.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bitter Suite: Brief Encounter/Lost Weekend/Blue Angel/Misplaced Rendezvous/Windswept Thumb - 1998 Remastered Version",
+      "artist": "Marillion",
+      "has_synced": false,
+      "path": "select/16_Bitter_Suite__Brief_Encounter_Lost_Weekend_Blue_Angel_Misplaced_Rendezvous_Winds_Marillion.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rendezvous (feat. Yeat)",
+      "artist": "Don Toliver, Yeat",
+      "has_synced": false,
+      "path": "select/pl_01_Rendezvous_(feat._Yeat)_Don_Toliver,_Yeat.txt"
+    }
+  ]
+}
